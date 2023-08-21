@@ -1,0 +1,11 @@
+Warnung: Breitenkorrektur eingeschränkt.  Für die aktuellen Designregeln muss sich der Breitenkorrekturwert im Bereich [0,000001 mm; 0,199999 mm] befinden.
+Plotted to 'D:\Projekte\LED\TM1637-VQB71\TM1637-VQB71-F_Cu.gbr'.
+Plotted to 'D:\Projekte\LED\TM1637-VQB71\TM1637-VQB71-B_Cu.gbr'.
+Plotted to 'D:\Projekte\LED\TM1637-VQB71\TM1637-VQB71-F_Paste.gbr'.
+Plotted to 'D:\Projekte\LED\TM1637-VQB71\TM1637-VQB71-B_Paste.gbr'.
+Plotted to 'D:\Projekte\LED\TM1637-VQB71\TM1637-VQB71-F_Silkscreen.gbr'.
+Plotted to 'D:\Projekte\LED\TM1637-VQB71\TM1637-VQB71-B_Silkscreen.gbr'.
+Plotted to 'D:\Projekte\LED\TM1637-VQB71\TM1637-VQB71-F_Mask.gbr'.
+Plotted to 'D:\Projekte\LED\TM1637-VQB71\TM1637-VQB71-B_Mask.gbr'.
+Plotted to 'D:\Projekte\LED\TM1637-VQB71\TM1637-VQB71-Edge_Cuts.gbr'.
+Hinweis: Fertig.
