@@ -24,10 +24,16 @@ Die 4 Pins der Display Platine können direkt 1:1 mit der **WEMOS D1** Hardware 
 * D4 GPIO0: TM1637 DIO
 
 ### Konfiguration der Display Parameter über die Console von Tasmota
+Kommandos in der Console zu Anzeige der Uhrzeit:
+```
+power 1
+displaymodel 15
+displaywidth 6
+displaytype 0
+displaymode 1
+displaydimmer 7
+```
 
-
-
- 
 ## Mit Programmierung
 ### Software
 Software für Raspberry Pi Pico in MicroPython
