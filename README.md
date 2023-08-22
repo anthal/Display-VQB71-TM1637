@@ -1,5 +1,5 @@
 # Hardware
-* Leiterplatte mit 1x TM1637 und 6x VQB71
+Leiterplatte mit 1x TM1637 (Display-Treiber-IC) und 6x VQB71 (rote DDR 7-Segment Displays)
 
 # Anwendungen
 ## MQTT bzw. Uhrzeit ohne Programmierung
