@@ -5,6 +5,8 @@
 ## MQTT bzw. Uhrzeit ohne Programmierung
 Verwendung der [Tasmota](https://tasmota.github.io/docs/)-Firmware mit ESP8266 oder ESP32 und Anbindung an MQTT.
 
+Tasmota Doku zum TM1637 Display-Treiber: https://tasmota.github.io/docs/TM163x/
+
 ### Anschluss bei Verwendung der **WEMOS D1** Hardware
 Die 4 Pins der Display Platine können direkt 1:1 mit der **WEMOS D1** Hardware verbunden werden.
  
@@ -22,7 +24,9 @@ Die 4 Pins der Display Platine können direkt 1:1 mit der **WEMOS D1** Hardware 
 * D4 GPIO0: TM1637 DIO
 
 ### Konfiguration der Display Parameter über die Console von Tasmota
-ToDo
+
+
+
  
 ## Mit Programmierung
 ### Software
