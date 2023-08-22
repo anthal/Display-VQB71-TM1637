@@ -24,6 +24,7 @@ Die 4 Pins der Display Platine können direkt 1:1 mit der **WEMOS D1** Hardware 
 * D4 GPIO0: TM1637 DIO
 
 ### Konfiguration der Display Parameter über die Console von Tasmota
+#### Anzeige der Uhrzeit
 Kommandos in der Console zu Anzeige der Uhrzeit:
 ```
 power 1
@@ -34,10 +35,35 @@ displaymode 1
 displaydimmer 7
 ```
 
+#### Anzeige eines Strings
+Kommandos in der Console zu Anzeige eines MQTT Wertes:
+```
+power 1
+displaymodel 15
+displaywidth 6
+displaytype 0
+displaymode 0
+displaydimmer 7
+displaytext Hallo
+```
+
+#### Anzeige eines MQTT Wertes
+Kommandos in der Console zu Anzeige eines MQTT Wertes:
+```
+power 1
+displaymodel 15
+displaywidth 6
+displaytype 0
+displaymode 0
+displaydimmer 7
+```
+* ToDo
+
 ## Mit Programmierung
 ### Software
 Software für Raspberry Pi Pico in MicroPython
 
+# Bilder
 ![alt Leiterplatte Seite A](https://github.com/anthal/Display-VQB71-TM1637/blob/main/Pictures/TM1637-VQB71.png?raw=true)
 ![alt Leiterplatte Seite B](https://github.com/anthal/Display-VQB71-TM1637/blob/main/Pictures/TM1637-VQB71_b.png?raw=true)
 ![alt fertige Leiterplatte 1](https://github.com/anthal/Display-VQB71-TM1637/blob/main/Pictures/20230820_102546.jpg?raw=true)
