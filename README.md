@@ -65,8 +65,6 @@ Software für Raspberry Pi Pico in MicroPython
 
 # Bilder
 
-<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200" />
-
-![alt Leiterplatte Seite A](https://github.com/anthal/Display-VQB71-TM1637/blob/main/Pictures/TM1637-VQB71.png)
-![alt Leiterplatte Seite B](https://github.com/anthal/Display-VQB71-TM1637/blob/main/Pictures/TM1637-VQB71_b.png)
-![alt fertige Leiterplatte 1](https://github.com/anthal/Display-VQB71-TM1637/blob/main/Pictures/20230820_102546.jpg)
+<img src="https://github.com/anthal/Display-VQB71-TM1637/blob/main/Pictures/TM1637-VQB71.png" width="400" />
+<img src="https://github.com/anthal/Display-VQB71-TM1637/blob/main/Pictures/TM1637-VQB71_b.png" width="400" />
+<img src="https://github.com/anthal/Display-VQB71-TM1637/blob/main/Pictures/20230820_102546.jpg" width="400" />
