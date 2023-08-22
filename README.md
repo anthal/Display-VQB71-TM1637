@@ -5,8 +5,8 @@
 ## MQTT bzw. Uhrzeit ohne Programmierung
 Verwendung der [Tasmota](https://tasmota.github.io/docs/)-Firmware mit ESP8266 oder ESP32 und Anbindung an MQTT.
 
-Anschluss bei Verwendung der **WEMOS D1** Hardware:
-* Die v4 Pins der Display Platine kann direkt 1:1 mit der **WEMOS D1** Hardware verbunden werden
+### Anschluss bei Verwendung der **WEMOS D1** Hardware
+Die 4 Pins der Display Platine können direkt 1:1 mit der **WEMOS D1** Hardware verbunden werden.
  
 | WEMOS D1 mini | Display-Platine |
 | ------------- | ------------- |
@@ -15,11 +15,14 @@ Anschluss bei Verwendung der **WEMOS D1** Hardware:
 | D4 | DIO  | 
 | D3 | CLK  | 
 
-Installation und Konfiguration:
+### Installation und Konfiguration der Firmware:
 * Installation der Firmware "Tasmota Display" am einfachsten über den Chrom-Browser und https://tasmota.github.io/install/
 * Configuration / Module type (Sonpoff Basic): **Generic (18)**
 * D3 GPIO0: TM1637 CLK
 * D4 GPIO0: TM1637 DIO
+
+### Konfiguration der Display Parameter über die Console von Tasmota
+ToDo
  
 ## Mit Programmierung
 ### Software
